@@ -9,8 +9,12 @@ The project also provides forecast visualizations to support insights and decisi
 
 ## How to Use
 ```bash
+git clone https://github.com/brendanros31/ML-Walmart-Revenue-Prediction.git
+
+cd ML-Walmart-Revenue-Prediction
+
 pip install -r requirements.txt
-python main.ipynb
+jupyter notebook main.ipynb
 ```
 
 ## Project Structure
